@@ -12,6 +12,9 @@ chmod +x install.sh
 
 امر فتح الادات 
 
-bash ELMORSY-SE.sh
+bash ELMORSY-HACKRS.sh
 
-وشكرا.......ڪـاآإن معكم اخوكم المرسي(SECTER EBLES)
+وشكرا.......ڪـاآإن معكم اخوكم المرسي
+(SECTER EBLES)
+
+☺
